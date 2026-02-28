@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ClipShake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ClipShake",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

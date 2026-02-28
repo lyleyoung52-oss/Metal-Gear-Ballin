@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Crates_NewGame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Crates_NewGame",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
